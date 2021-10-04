@@ -7,25 +7,26 @@ OBECNÁ USTANOVENÍ
 
 Předmět
 
-S cílem zajistit řádné fungování vnitřního trhu a současně usilovat o odpovídající úroveň bezpečnosti prostředků pro elektronickou identifikaci a služeb vytvářejících důvěru toto nařízení:
+Toto nařízení má za cíl zajistit řádné fungování vnitřního trhu a současně poskytovat odpovídající úroveň bezpečnosti prostředků pro elektronickou identifikaci a služeb vytvářejících důvěru. Za těmito účely toto nařízení:
 
-a) stanoví podmínky, za nichž členské státy uznávají prostředky pro elektronickou identifikaci fyzických a právnických osob, které spadají do oznámeného systému elektronické identifikace jiného členského státu;
+a)stanoví podmínky, za nichž členské státy poskytují a uznávají prostředky pro elektronickou identifikaci fyzických a právnických osob, které spadají do oznámeného systému elektronické identifikace jiného členského státu;
 
-b) stanoví pravidla pro služby vytvářející důvěru, zejména u elektronických transakcí; a
+b)stanoví pravidla pro služby vytvářející důvěru, zejména u elektronických transakcí;
 
-c) stanoví právní rámec pro elektronické podpisy, elektronické pečetě, elektronická časová razítka, elektronické dokumenty, služby elektronického doporučeného doručování a certifikační služby pro autentizaci internetových stránek.
+c)stanoví právní rámec pro elektronické podpisy, elektronické pečetě, elektronická časová razítka, elektronické dokumenty, služby elektronického doporučeného doručování, certifikační služby pro autentizaci internetových stránek, elektronickou archivaci a elektronické potvrzování atributů, správu prostředků pro vytváření elektronických podpisů a pečetí na dálku a pro elektronické účetní knihy;
+
+d)stanoví podmínky pro vydávání evropských peněženek digitální identity členskými státy.
 
 
 Článek 2
 
 Oblast působnosti
 
-1. Toto nařízení se vztahuje na systémy elektronické identifikace oznámené členskými státy a na poskytovatele služeb vytvářejících důvěru usazené v Unii.
+1. Toto nařízení se vztahuje na systémy elektronické identifikace oznámené členskými státy, na evropské peněženky digitální identity vydané členskými státy a na poskytovatele služeb vytvářejících důvěru usazené v Unii.
 
 2. Toto nařízení se nevztahuje na poskytování služeb vytvářejících důvěru, které jsou používány výhradně v rámci uzavřených systémů vyplývajících z vnitrostátního práva nebo z dohod mezi určeným okruhem účastníků.
 
-3. Tímto nařízením není dotčeno vnitrostátní právo ani právo Unie týkající se uzavírání a platnosti smluv či jiných právních nebo procesních povinností týkajících se formy.
-
+3. Tímto nařízením není dotčeno vnitrostátní právo ani právo Unie týkající se uzavírání a platnosti smluv či jiných právních nebo procesních povinností týkajících se požadavků pro konkrétní odvětví s ohledem na formu se základními právními účinky.
 
 Článek 3
 
@@ -35,7 +36,7 @@ Pro účely tohoto nařízení se rozumí:
 
 1) „elektronickou identifikací“ postup používání osobních identifikačních údajů v elektronické podobě, které jedinečně identifikují určitou fyzickou či právnickou osobu nebo fyzickou osobu zastupující právnickou osobu;
 
-2) „prostředkem pro elektronickou identifikaci“ hmotná či nehmotná jednotka obsahující osobní identifikační údaje, která se používá k autentizaci pro účely on-line služby;
+2) „prostředkem pro elektronickou identifikaci“ hmotná či nehmotná jednotka, včetně evropských peněženek digitální identity nebo průkazů totožnosti podle nařízení 2019/1157, obsahující osobní identifikační údaje, která se používá k autentizaci pro účely on-line či offline služby;
 
 3) „osobními identifikačními údaji“ soubor údajů umožňujících určit totožnost fyzické či právnické osoby nebo fyzické osoby zastupující právnickou osobu;
 
@@ -59,17 +60,23 @@ Pro účely tohoto nařízení se rozumí:
 
 13) „daty pro vytváření elektronických podpisů“ jedinečná data, která podepisující osoba používá k vytváření elektronických podpisů;
 
-14) „certifikátem pro elektronický podpis“ elektronické potvrzení, které spojuje data pro ověřování platnosti elektronických podpisů s určitou fyzickou osobou a potvrzuje alespoň jméno nebo pseudonym této osoby;
+14) „certifikátem pro elektronický podpis“ elektronické potvrzení nebo soubor potvrzení, které spojují data pro ověřování platnosti elektronických podpisů s určitou fyzickou osobou a potvrzují alespoň jméno nebo pseudonym této osoby;
 
 15) „kvalifikovaným certifikátem pro elektronický podpis“ certifikát pro elektronický podpis, který je vydán kvalifikovaným poskytovatelem služeb vytvářejících důvěru a splňuje požadavky stanovené v příloze I;
 
 16) „službou vytvářející důvěru“ elektronická služba, která je zpravidla poskytována za úplatu a spočívá:
 
-a) ve vytváření, ověřování shody a ověřování platnosti elektronických podpisů, elektronických pečetí nebo elektronických časových razítek, služeb elektronického doporučeného doručování a certifikátů souvisejících s těmito službami nebo
+a)ve vytváření, ověřování shody a ověřování platnosti elektronických podpisů, elektronických pečetí nebo elektronických časových razítek, služeb elektronického doporučeného doručování, elektronických potvrzování atributů a certifikátů souvisejících s těmito službami;
 
-b) ve vytváření, ověřování shody a ověřování platnosti certifikátů pro autentizaci internetových stránek nebo
+b)ve vytváření, ověřování shody a ověřování platnosti certifikátů pro autentizaci internetových stránek;
 
-c) v uchovávání elektronických podpisů, pečetí nebo certifikátů souvisejících s těmito službami;
+c)v uchovávání elektronických podpisů, pečetí nebo certifikátů souvisejících s těmito službami;
+
+d) v elektronické archivaci elektronických dokumentů;
+
+e)ve správě prostředků pro vytváření elektronických podpisů a pečetí na dálku;
+
+f)zaznamenávání elektronických údajů do elektronické účetní knihy.“;
 
 17) „kvalifikovanou službou vytvářející důvěru“ služba vytvářející důvěru, která splňuje použitelné požadavky stanovené v tomto nařízení;
 
@@ -79,11 +86,15 @@ c) v uchovávání elektronických podpisů, pečetí nebo certifikátů souvise
 
 20) „kvalifikovaným poskytovatelem služeb vytvářejících důvěru“ poskytovatel služeb vytvářejících důvěru, který poskytuje jednu či více kvalifikovaných služeb vytvářejících důvěru a kterému orgán dohledu udělil status kvalifikovaného poskytovatele;
 
-21) „produktem“ technické zařízení nebo programové vybavení či jejich příslušné součásti, které jsou určeny k používání pro poskytování služeb vytvářejících důvěru;
+21) „produktem“ technické zařízení nebo programové vybavení či jejich příslušné součásti, které jsou určeny k používání pro poskytování služeb elektronické identifikace a služeb vytvářejících důvěru;
 
 22) „prostředkem pro vytváření elektronických podpisů“ konfigurované programové vybavení nebo technické zařízení, které se používá k vytváření elektronických podpisů;
 
 23) „kvalifikovaným prostředkem pro vytváření elektronických podpisů“ prostředek pro vytváření elektronických podpisů, který splňuje požadavky stanovené v příloze II;
+
+23a) „prostředkem pro vytváření kvalifikovaných podpisů na dálku“ prostředek pro vytváření kvalifikovaných elektronických podpisů, přičemž kvalifikovaný poskytovatel služeb vytvářejících důvěru vytváří, spravuje nebo kopíruje data pro vytváření elektronických podpisů jménem podepisující osoby;
+
+(23b) „prostředkem pro vytváření kvalifikovaných pečetí na dálku“ prostředek pro vytváření kvalifikovaných elektronických pečetí, přičemž kvalifikovaný poskytovatel služeb vytvářejících důvěru vytváří, spravuje nebo kopíruje data pro vytváření elektronických podpisů jménem pečetící osoby;
 
 24) „pečetící osobou“ právnická osoba, která vytváří elektronickou pečeť;
 
@@ -95,7 +106,7 @@ c) v uchovávání elektronických podpisů, pečetí nebo certifikátů souvise
 
 28) „daty pro vytváření elektronických pečetí“ jedinečná data, která pečetící osoba používá k vytváření elektronických pečetí;
 
-29) „certifikátem pro elektronickou pečeť“ elektronické potvrzení, které spojuje data pro ověřování platnosti elektronických pečetí s určitou právnickou osobou a potvrzuje název této osoby;
+29) „certifikátem pro elektronickou pečeť“ elektronické potvrzení nebo soubor potvrzení, které spojují data pro ověřování platnosti elektronických pečetí s určitou právnickou osobou a potvrzují název této osoby;
 
 30) „kvalifikovaným certifikátem pro elektronickou pečeť“ certifikát pro elektronickou pečeť, který je vydán kvalifikovaným poskytovatelem služeb vytvářejících důvěru a splňuje požadavky stanovené v příloze III;
 
@@ -119,7 +130,35 @@ c) v uchovávání elektronických podpisů, pečetí nebo certifikátů souvise
 
 40) „daty pro ověřování platnosti“ data, která se používají k ověření platnosti elektronického podpisu nebo elektronické pečeti;
 
-41) „ověřováním platnosti“ postup ověřující shodu a potvrzující platnost elektronického podpisu nebo elektronické pečeti.
+41) „ověřováním platnosti“ postup ověřující shodu a potvrzující platnost elektronického podpisu nebo elektronické pečeti nebo osobních identifikačních údajů nebo elektronického potvrzení atributů;
+
+42) „evropskou peněženkou digitální identity“ produkt a služba, které uživateli umožňují uchovávat údaje o totožnosti, pověření a atributy spojené s jeho totožností, poskytovat je na požádání spoléhajícím se stranám a používat je pro autentizaci, on-line i offline, pro službu v souladu s článkem 6a; a k vytváření kvalifikovaných elektronických podpisů a pečetí;
+
+(43) „atributem“ prvek, rys nebo vlastnost fyzické nebo právnické osoby nebo subjektu v elektronické podobě;
+
+(44) „elektronickým potvrzováním atributů“ potvrzování v elektronické podobě, které umožňuje ověřování atributů;
+
+(45) „kvalifikovaným elektronickým potvrzením atributů“ elektronické potvrzení atributů, které je vydáno kvalifikovaným poskytovatelem služeb vytvářejících důvěru a splňuje požadavky stanovené v příloze V;
+
+(46) „autentickým zdrojem“ registr nebo systém, za který odpovídá subjekt veřejného sektoru nebo soukromý subjekt a který obsahuje atributy fyzické nebo právnické osoby a je považován za primární zdroj těchto informací nebo je ve vnitrostátním právu uznán za autentický;
+
+(47) „elektronickou archivací“ služba zajišťující přijímání, uchovávání, výmaz a přenos elektronických údajů nebo dokumentů s cílem zaručit jejich integritu, přesnost jejich původu a právní znaky po celou dobu uchovávání;
+
+(48) „kvalifikovanou službou elektronické archivace“ služba, která splňuje požadavky stanovené v článku 45g;
+
+(49) „značkou důvěry EU pro peněženku digitální identity“ jednoduché, rozpoznatelné a jasné označení toho, že peněženka digitální identity byla vydána v souladu s tímto nařízením;
+
+(50) „silným ověřením uživatele“ ověření založené na použití dvou nebo více nezávislých prvků kategorizovaných jako znalost, držení a inherence uživatele, kdy nesplněním jednoho z nich není ovlivněna spolehlivost ostatních, a ověření je navrženo tak, aby byla chráněna důvěrnost ověřovacích údajů;
+
+(51) „uživatelským účtem“ mechanismus, který uživateli umožňuje přístup k veřejným nebo soukromým službám za podmínek stanovených poskytovatelem služeb;
+
+(52) „pověřovacím údajem“ doklad o schopnostech, zkušenostech, právu nebo povolení osoby;
+
+(53) „elektronickou účetní knihou“ elektronický záznam údajů odolný proti neoprávněným zásahům, který zajišťuje pravost a integritu údajů, jež obsahuje, přesnost jejich data a času a jejich chronologické řazení;
+
+(54) „osobními údaji“ veškeré informace ve smyslu čl. 4 bodu 1 nařízení (EU) 2016/679;
+
+(55) „jedinečnou identifikací“ postup, při němž jsou osobní identifikační údaje nebo prostředky osobní identifikace porovnávány nebo propojeny se stávajícím účtem patřícím téže osobě.
 
 
 Článek 4
@@ -133,39 +172,128 @@ Zásada vnitřního trhu
 
 Článek 5
 
-Zpracování a ochrana údajů
+Pseudonymy v elektronických transakcích
 
-1. Zpracování osobních údajů se provádí v souladu se směrnicí 95/46/ES.
+Aniž jsou dotčeny právní účinky, které vnitrostátní právo přiznává pseudonymům, není používání pseudonymů v elektronických transakcích zakázáno.
 
-2. Aniž jsou dotčeny právní účinky, které vnitrostátní právo přiznává pseudonymům, není používání pseudonymů v elektronických transakcích zakázáno.
 
 KAPITOLA II
 
-ELEKTRONICKÁ IDENTIFIKACE
+ODDÍL I
 
+ELEKTRONICKÁ IDENTIFIKACE
 
 Článek 6
 
-Vzájemné uznávání
+Zrušen
 
-1. Pokud se podle vnitrostátního práva nebo správní praxe pro přístup ke službě poskytované on-line subjektem veřejného sektoru v určitém členském státě vyžaduje elektronická identifikace s použitím prostředku pro elektronickou identifikaci a autentizace, je pro účely přeshraniční autentizace pro danou on-line službu uznán v tomto členském státě prostředek pro elektronickou identifikaci vydaný v jiném členském státě, pokud jsou splněny tyto podmínky:
+Článek 6a
 
-a) daný prostředek pro elektronickou identifikaci je vydán v rámci systému elektronické identifikace, který je uveden na seznamu zveřejněném Komisí podle článku 9;
+Evropské peněženky digitální identity
 
-b) úroveň záruky daného prostředku pro elektronickou identifikaci odpovídá stejné úrovni záruky, jako je úroveň záruky požadovaná příslušným subjektem veřejného sektoru v prvním členském státě pro přístup k dané on-line službě, nebo vyšší úrovni, pokud úroveň záruky daného prostředku pro elektronickou identifikaci odpovídá značné nebo vysoké úrovni záruky;
+1. S cílem zajistit, aby všechny fyzické a právnické osoby v Unii měly bezpečný, důvěryhodný a hladký přístup k přeshraničním veřejným a soukromým službám, vydá každý členský stát do dvanácti měsíců od vstupu tohoto nařízení v platnost evropské peněženky digitální identity.
 
-c) příslušný subjekt veřejného sektoru používá v souvislosti s přístupem k dané on-line službě značnou nebo vysokou úroveň záruky.
+2. Evropské peněženky digitální identity jsou vydávány:
 
-K tomuto uznání dojde do dvanácti měsíců od zveřejnění seznamu uvedeného v prvním pododstavci písm. a) Komisí.
+a)členským státem;
 
-2. Pro účely přeshraniční autentizace pro on-line službu poskytovanou subjekty veřejného sektoru mohou tyto subjekty uznat prostředek pro elektronickou identifikaci, který byl vydán v rámci systému elektronické identifikace uvedeného na seznamu zveřejněném Komisí podle článku 9 a který odpovídá nízké úrovni záruky.
+b)z pověření členského státu;
 
+c)nezávisle, ale jsou uznávány členským státem.
+
+3. Evropské peněženky digitální identity umožní uživateli:
+
+a)bezpečně požadovat a získávat, ukládat, vybírat, kombinovat a sdílet způsobem, který je pro uživatele transparentní a sledovatelný, nezbytné zákonné osobní identifikační údaje a elektronické potvrzení atributů za účelem on-line a offline autentizace s cílem využívat veřejné a soukromé služby on-line;
+
+b)podepisovat kvalifikovanými elektronickými podpisy.
+
+4. Peněženky digitální identity zejména:
+
+a)poskytují společné rozhraní:
+
+1)kvalifikovaným a nekvalifikovaným poskytovatelům služeb vytvářejících důvěru, kteří vydávají kvalifikovaná a nekvalifikovaná elektronická potvrzení atributů nebo jiné kvalifikované a nekvalifikované certifikáty za účelem vydávání těchto potvrzení a certifikátů evropské peněžence digitální identity;
+
+2) spoléhajícím se stranám, aby mohly požadovat a ověřovat osobní identifikační údaje a elektronická potvrzení atributů;
+
+3)pro předkládání osobních identifikačních údajů, elektronického potvrzení atributů nebo jiných údajů, jako jsou pověřovací údaje, spoléhajícím se stranám v místním režimu, který pro peněženku nevyžaduje přístup k internetu;
+
+4)umožňují uživateli interakci s evropskou peněženkou digitální identity a zobrazení „značky důvěry EU pro peněženku evropské digitální identity“;
+
+b)zajišťují, aby poskytovatelé služeb vytvářejících důvěru a kvalifikovaných potvrzení atributů nemohli obdržet žádné informace o používání těchto atributů;
+
+c)splňují požadavky stanovené v článku 8, pokud jde o „vysokou“ úroveň záruky, zejména co se týče požadavků na prokazování a ověřování totožnosti a správu a autentizaci prostředků pro elektronickou identifikaci;
+
+d)poskytují mechanismus, který zajistí, aby spoléhající se strana byla schopna uživatele ověřit a obdržet elektronická potvrzení atributů;
+
+e)zajistí, aby osobní identifikační údaje uvedené v čl. 12 odst. 4 písm. d) jedinečně a trvale identifikovaly fyzickou nebo právnickou osobu, která je s nimi spojena.
+
+5. Členské státy pro evropské peněženky digitální identity poskytnou mechanismy ověření:
+
+a)které zajistí, že je možné ověřit jejich pravost a platnost;
+
+b)které spoléhajícím se stranám umožní ověřit platnost potvrzení atributů;
+
+c)které spoléhajícím se stranám a kvalifikovaným poskytovatelům služeb vytvářejících důvěru umožní ověřit pravost a platnost přiřazených osobních identifikačních údajů.
+
+6. Evropské peněženky digitální identity jsou vydávány v rámci oznámeného systému elektronické identifikace s „vysokou“ úrovní záruky. Používání evropských peněženek digitální identity je pro fyzické osoby bezplatné.
+
+7. Evropskou peněženku digitální identity má uživatel plně pod kontrolou. Vydavatel evropské peněženky digitální identity neshromažďuje informace o používání peněženky, které nejsou nezbytné pro poskytování služeb peněženky, ani nekombinuje osobní identifikační údaje a jakékoli jiné uložené osobní údaje nebo údaje týkající se používání evropské peněženky digitální identity s osobními údaji z jiných služeb nabízených tímto vydavatelem nebo ze služeb třetích stran, které nejsou nezbytné pro poskytování služeb peněženky, ledaže o to uživatel výslovně požádal. Osobní údaje týkající se poskytování evropské peněženky digitální identity jsou uchovávány fyzicky a logicky odděleně od jakýchkoli jiných uchovávaných údajů. Pokud evropskou peněženku digitální identity poskytují soukromé strany v souladu s odst. 1 písm. b) a c), použijí se obdobně ustanovení čl. 45f odst. 4.
+
+8. Článek 11 se použije obdobně pro evropskou peněženku digitální identity.
+
+9. Ustanovení čl. 24 odst. 2 písm. b), e), g) a h) se použije obdobně na členské státy vydávající evropské peněženky digitální identity.
+
+10. Evropská peněženka digitální identity je zpřístupněna osobám se zdravotním postižením v souladu s požadavky na přístupnost stanovenými v příloze I směrnice 2019/882.
+
+11. Do šesti měsíců od vstupu tohoto nařízení v platnost stanoví Komise prostřednictvím prováděcího aktu o zavedení evropské peněženky digitální identity technické a provozní specifikace a referenční normy pro požadavky uvedené v odstavcích 3, 4 a 5. Tento prováděcí akt se přijímá přezkumným postupem podle čl. 48 odst. 2.
+
+Článek 6b
+
+Spoléhající se strany u evropských peněženek digitální identity
+
+1. Pokud mají spoléhající se strany v úmyslu spoléhat se na evropské peněženky digitální identity vydané v souladu s tímto nařízením, sdělí to členskému státu, v němž je spoléhající se strana usazena, aby byl zajištěn soulad s požadavky stanovenými v právních předpisech Unie nebo vnitrostátních právních předpisech pro poskytování konkrétních služeb. Při sdělování svého záměru spoléhat se na evropské peněženky digitální identity informují rovněž o zamýšleném způsobu jejich použití.
+
+2. Členské státy zavedou pro autentizaci spoléhajících se stran společný mechanismus.
+
+3. Spoléhající se strany jsou odpovědné za provádění postupu autentizace osobních identifikačních údajů a elektronického potvrzování atributů pocházejících z evropských peněženek digitální identity.
+
+4. Do šesti měsíců od vstupu tohoto nařízení v platnost stanoví Komise prostřednictvím prováděcího aktu o zavedení evropské peněženky digitální identity, jak je uvedeno v čl. 6a odst. 10, technické a provozní specifikace pro požadavky uvedené v odstavcích 1 a 2.
+
+Článek 6c
+
+Certifikace evropských peněženek digitální identity
+
+1. Evropské peněženky digitální identity, které byly certifikovány nebo pro něž bylo vydáno prohlášení o shodě v rámci systému kybernetické bezpečnosti podle nařízení (EU) 2019/881 a na něž byly zveřejněny odkazy v Úředním věstníku Evropské unie, se považují za vyhovující požadavkům týkajícím se kybernetické bezpečnosti stanoveným v čl. 6a odst. 3, 4 a 5, pokud se na tyto požadavky vztahuje certifikát kybernetické bezpečnosti nebo prohlášení o shodě či jejich části.
+
+2. Soulad s požadavky stanovenými v čl. 6a odst. 3, 4 a 5 týkajícími se operací zpracování osobních údajů, které provádí vydavatel evropských peněženek digitální identity, je certifikován podle nařízení (EU) 2016/679.
+
+3. Soulad evropských peněženek digitální identity s požadavky stanovenými v čl. 6a odst. 3, 4 a 5 je certifikován akreditovanými subjekty veřejného nebo soukromého sektoru určenými členskými státy.
+
+4. Do šesti měsíců od vstupu tohoto nařízení v platnost stanoví Komise prostřednictvím prováděcích aktů seznam norem pro certifikaci evropských peněženek digitální identity uvedenou v odstavci 3.
+
+5. Členské státy sdělí Komisi názvy a adresy veřejných nebo soukromých subjektů uvedených v odstavci 3. Komise tyto informace zpřístupní členským státům.
+
+6. Komise je zmocněna k přijímání aktů v přenesené pravomoci v souladu s článkem 47, pokud jde o stanovení zvláštních kritérií, která mají splňovat určené subjekty uvedené v odstavci 3.
+
+Článek 6d
+
+Zveřejnění seznamu certifikovaných evropských peněženek digitální identity
+
+1. Členské státy bez zbytečného odkladu informují Komisi o evropských peněženkách digitální identity, které byly vydány podle článku 6a a certifikovány subjekty uvedenými v čl. 6c odst. 3. Rovněž bez zbytečného odkladu informují Komisi o zrušení certifikace.
+
+2. Na základě obdržených informací Komise zřizuje, zveřejňuje a udržuje seznam certifikovaných evropských peněženek digitální identity.
+
+3. Do šesti měsíců od vstupu tohoto nařízení v platnost stanoví Komise prostřednictvím prováděcího aktu o zavedení evropské peněženky digitální identity, jak je uvedeno v čl. 6a odst. 10, formáty a postupy použitelné pro účely odstavce 1.
+
+ODDÍL II
+
+SYSTÉMY ELEKTRONICKÉ IDENTIFIKACE
 
 Článek 7
 
 Způsobilost systémů elektronické identifikace pro oznámení
 
-Systém elektronické identifikace je způsobilý pro oznámení podle čl. 9 odst. 1, jsou-li splněny všechny tyto podmínky:
+Podle čl. 9 odst. 1 oznámí členské státy do dvanácti měsíců od vstupu tohoto nařízení v platnost alespoň jeden systém elektronické identifikace včetně alespoň jednoho identifikačního prostředku:
 
 a) prostředky pro elektronickou identifikaci v rámci daného systému elektronické identifikace:
 
@@ -251,9 +379,9 @@ f) popis autentizace podle čl. 7 písm. f);
 
 g) opatření k pozastavení platnosti nebo zrušení oznámeného systému elektronické identifikace nebo autentizace či dotčených ohrožených součástí.
 
-2. Jeden rok ode dne použitelnosti prováděcích aktů uvedených v čl. 8 odst. 3 a čl. 12 odst. 8 zveřejní Komise v Úředním věstníku Evropské unie seznam systémů elektronické identifikace, které byly oznámeny podle odstavce 1 tohoto článku, a základní informace o těchto systémech.
+2. Komise zveřejní v Úředním věstníku Evropské unie seznam systémů elektronické identifikace, které byly oznámeny podle odstavce 1 tohoto článku, a základní informace o těchto systémech.
 
-3. Obdrží-li Komise oznámení po uplynutí lhůty uvedené v odstavci 2, zveřejní změny v seznamu podle uvedeného odstavce v Úředním věstníku Evropské unie do dvou měsíců od obdržení daného oznámení.
+3. Komise zveřejní v Úředním věstníku Evropské unie změny seznamu uvedeného v odstavci 2 do jednoho měsíce od obdržení daného oznámení.
 
 4. Členský stát může Komisi požádat o vyškrtnutí systému elektronické identifikace, který oznámil, ze seznamu uvedeného v odstavci 2. Do jednoho měsíce od obdržení žádosti členského státu zveřejní Komise odpovídající změny v seznamu v Úředním věstníku Evropské unie.
 
@@ -273,6 +401,21 @@ Narušení bezpečnosti
 Komise bez zbytečného odkladu zveřejní v Úředním věstníku Evropské unie odpovídající změny v seznamu uvedeném v čl. 9 odst. 2.
 
 
+Článek 10a
+
+Narušení bezpečnosti evropských peněženek digitální identity
+
+1. Pokud jsou evropské peněženky digitální identity vydané podle článku 6a a mechanismy ověření uvedené v čl. 6a odst. 5 písm. a), b) a c) porušeny nebo částečně ohroženy způsobem, který ovlivňuje jejich spolehlivost nebo spolehlivost ostatních evropských peněženek digitální identity, členský stát, který je vydal, bezodkladně pozastaví vydávání evropských peněženek digitální identity, zruší jejich platnost a informuje o tom ostatní členské státy a Komisi.
+
+2. Pokud bylo narušení nebo ohrožení bezpečnosti uvedené v odstavci 1 napraveno, vydávající členský stát obnoví vydávání a používání evropských peněženek digitální identity a bez zbytečného odkladu o tom uvědomí ostatní členské státy a Komisi.
+
+3. Není-li porušení nebo ohrožení uvedené v odstavci 1 napraveno do tří měsíců od pozastavení nebo zrušení, dotčený členský stát dotyčnou evropskou digitální peněženku stáhne a informuje o stažení ostatní členské státy a Komisi. Je-li to odůvodněno závažností porušení, je evropská peněženka digitální identity stažena neprodleně.
+
+4. Komise bez zbytečného odkladu zveřejní v Úředním věstníku Evropské unie odpovídající změny v seznamu uvedeném v článku 6d.
+
+5. Do šesti měsíců od vstupu tohoto nařízení v platnost Komise prostřednictvím prováděcího aktu o zavedení evropské peněženky digitální identity, jak je uvedeno v čl. 6a odst. 10, dále upřesní opatření uvedená v odstavcích 1 a 3.
+
+
 Článek 11
 
 Odpovědnost za škodu
@@ -286,6 +429,16 @@ Odpovědnost za škodu
 4. Odstavce 1, 2 a 3 se použijí v souladu s vnitrostátními pravidly upravujícími odpovědnost za škodu.
 
 5. Odstavci 1, 2 a 3 není dotčena odpovědnost za škodu, kterou podle vnitrostátního práva nesou účastníci transakce, při níž jsou použity prostředky pro elektronickou identifikaci spadající do systému elektronické identifikace oznámeného podle čl. 9 odst. 1.
+
+Článek 11a
+
+Jedinečná identifikace
+
+1. Používají-li se k autentizaci oznámené prostředky pro elektronickou identifikaci a evropské peněženky digitální identity, zajistí členské státy jedinečnou identifikaci.
+
+2. Členské státy pro účely tohoto nařízení zahrnou do minimálního souboru osobních identifikačních údajů uvedeného v čl. 12 odst. 4 písm. d) jedinečný a trvalý identifikátor v souladu s právem Unie, aby uživatele na jeho žádost identifikovaly v případech, kdy je identifikace uživatele vyžadována právními předpisy.
+
+3. Do šesti měsíců od vstupu tohoto nařízení v platnost Komise prostřednictvím prováděcího aktu o zavedení peněženky evropské digitální identity, jak je uvedeno v čl. 6a odst. 10, dále upřesní opatření uvedená v odstavci 1 a 2.
 
 
 Článek 12
@@ -302,9 +455,9 @@ a) usiluje o to, aby byl z technologického hlediska neutrální, a v rámci čl
 
 b) je-li to možné, řídí se evropskými a mezinárodními normami;
 
-c) usnadňuje uplatňování zásady ochrany soukromí již od návrhu; a
+c) zrušeno
 
-d) zajišťuje, aby osobní údaje byly zpracovávány v souladu se směrnicí 95/46/ES.
+d) zrušeno.
 
 4. Rámec interoperability sestává z:
 
@@ -314,7 +467,7 @@ b) mapování vnitrostátních úrovní záruky oznámených systémů elektroni
 
 c) odkazu na minimální technické požadavky pro interoperabilitu;
 
-d) odkazu na minimální soubor osobních identifikačních údajů jedinečně identifikujících fyzickou nebo právnickou osobu, který je v systémech elektronické identifikace k dispozici;
+d) odkazu na minimální soubor osobních identifikačních údajů nezbytných k jedinečné a trvalé identifikaci fyzické nebo právnické osoby;
 
 e) procesních pravidel;
 
@@ -330,7 +483,7 @@ b) bezpečnosti systémů elektronické identifikace.
 
 6. Spolupráce mezi členskými státy zahrnuje:
 
-a) výměnu informací, zkušeností a osvědčených postupů v oblasti systémů elektronické identifikace, a zejména v oblasti technických požadavků týkajících se interoperability a úrovní záruky;
+a) výměnu informací, zkušeností a osvědčených postupů v oblasti systémů elektronické identifikace, a zejména v oblasti technických požadavků týkajících se interoperability, jedinečné identifikace a úrovní záruky;
 
 b) výměnu informací, zkušeností a osvědčených postupů v oblasti práce s úrovněmi záruky systémů elektronické identifikace podle článku 8;
 
@@ -343,6 +496,53 @@ d) posouzení relevantního vývoje v odvětví elektronické identifikace.
 8. Do 18. března 2015 Komise pro účely stanovení jednotných podmínek pro provádění požadavku podle odstavce 1, s výhradou kritérií stanovených v odstavci 3 a s přihlédnutím k výsledkům spolupráce mezi členskými státy, přijme prováděcí akty týkající se rámce interoperability stanoveného v odstavci 4.
 
 9. Prováděcí akty uvedené v odstavcích 7 a 8 tohoto článku se přijímají přezkumným postupem podle čl. 48 odst. 2.
+
+
+Článek 12a
+
+Certifikace systémů elektronické identifikace
+
+1. Soulad oznámených systémů elektronické identifikace s požadavky stanovenými v článcích 6a, 8 a 10 může být certifikován subjekty veřejného nebo soukromého sektoru určenými členskými státy.
+
+2. Vzájemné hodnocení systémů elektronické identifikace uvedené v čl. 12 odst. 6 písm. c) se nevztahuje na systémy elektronické identifikace nebo na část těchto systémů certifikovaných v souladu s odstavcem 1. Členské státy mohou použít certifikát nebo prohlášení Unie o shodě vydané v souladu s příslušným evropským systémem certifikace kybernetické bezpečnosti zřízeným podle nařízení (EU) 2019/881 s cílem prokázat soulad těchto systémů s požadavky stanovenými v čl. 8 odst. 2, pokud jde o úrovně záruky systémů elektronické identifikace.
+
+3. Členské státy sdělí Komisi názvy a adresy veřejných nebo soukromých subjektů uvedených v odstavci 1. Komise tyto informace zpřístupní členským státům.
+
+ODDÍL III
+
+PŘESHRANIČNÍ VYUŽÍVÁNÍ PROSTŘEDKŮ PRO ELEKTRONICKOU IDENTIFIKACI
+
+Článek 12b
+
+Přeshraniční využívání peněženek evropské digitální identity
+
+1. Pokud členské státy podle vnitrostátního práva nebo správní praxe pro přístup k on-line službě poskytované subjektem veřejného sektoru vyžadují elektronickou identifikaci s použitím prostředku pro elektronickou identifikaci a autentizaci, přijmou rovněž evropské peněženky digitální identity vydané v souladu s tímto nařízením.
+
+2. Pokud vnitrostátní právní předpisy nebo právní předpisy Unie vyžadují od soukromých spoléhajících se stran poskytujících služby silnou autentizaci uživatele k on-line identifikaci nebo pokud smluvní závazek vyžaduje silnou autentizaci uživatele, a to i v oblasti dopravy, energetiky, bankovnictví a finančních služeb, sociálního zabezpečení, zdravotnictví, pitné vody, poštovních služeb, digitální infrastruktury, vzdělávání nebo telekomunikací, akceptují soukromé spoléhající se strany rovněž evropské peněženky digitální identity vydané v souladu s článkem 6a.
+
+3. V případech, kdy velmi rozsáhlé on-line platformy ve smyslu článku 25 odst. 1 nařízení [odkaz na nařízení o aktu o digitálních službách] vyžadují, aby se uživatelé pro přístup k on-line službám autentizovali, přijmou rovněž evropské peněženky digitální identity vydané v souladu s článkem 6a výhradně na dobrovolnou žádost uživatele a s ohledem na minimální atributy nezbytné pro konkrétní on-line službu, pro kterou se autentizace požaduje, například doklad o věku.
+
+4. Komise podpoří a usnadní vytvoření samoregulačních kodexů chování na úrovni Unie (dále jen „kodexy chování“) s cílem přispět k široké dostupnosti a použitelnosti evropských peněženek digitální identity v oblasti působnosti tohoto nařízení. Tyto kodexy chování zajistí přijímání prostředků pro elektronickou identifikaci, včetně evropských peněženek digitální identity, které spadají do oblasti působnosti tohoto nařízení, zejména ze strany poskytovatelů služeb využívajících pro autentizaci uživatelů služby elektronické identifikace třetích stran. Komise usnadní vypracování těchto kodexů chování v úzké spolupráci se všemi příslušnými zúčastněnými stranami a vyzve poskytovatele služeb, aby dokončili vypracování kodexů chování do dvanácti měsíců od přijetí tohoto nařízení a s účinností je zavedli do osmnácti měsíců od přijetí tohoto nařízení.
+
+5. Komise do osmnácti měsíců od zavedení evropských peněženek digitální identity posoudí, zda by na základě důkazů prokazujících dostupnost a použitelnost evropské peněženky digitální identity měli být k přijímání evropské peněženky digitální identity výhradně na dobrovolnou žádost uživatele povinni další soukromí poskytovatelé on-line služeb. Kritéria hodnocení mohou zahrnovat rozsah uživatelské základny, přeshraniční přítomnost poskytovatelů služeb, technologický rozvoj a vývoj způsobů využívání. Komise je zmocněna k přijímání aktů v přenesené pravomoci na základě tohoto posouzení, pokud jde o přezkum požadavků na uznání evropské peněženky digitální identity podle bodů 1 až 4 tohoto článku.
+
+6. Pro účely tohoto článku evropské peněženky digitální identity nepodléhají požadavkům uvedeným v článcích 7 a 9.
+
+Článek 12c
+
+Vzájemné uznávání jiných prostředků pro elektronickou identifikaci
+
+1. Pokud se podle vnitrostátního práva nebo správní praxe pro přístup k on-line službě poskytované subjektem veřejného sektoru v určitém členském státě vyžaduje elektronická identifikace s použitím prostředku pro elektronickou identifikaci a autentizace, je pro účely přeshraniční autentizace pro danou on-line službu uznán v tomto členském státě prostředek pro elektronickou identifikaci vydaný v jiném členském státě, pokud jsou splněny tyto podmínky:
+
+a)daný prostředek pro elektronickou identifikaci je vydán v rámci systému elektronické identifikace, který je uveden na seznamu podle článku 9;
+
+b)úroveň záruky daného prostředku pro elektronickou identifikaci odpovídá stejné úrovni záruky, jako je úroveň záruky požadovaná příslušným subjektem veřejného sektoru v dotčeném členském státě pro přístup k dané on-line službě, nebo vyšší úrovni, ale v každém případě ne úrovni nižší, než je „značná“ úroveň záruky;
+
+c)příslušný subjekt veřejného sektoru v dotčeném členském státě používá v souvislosti s přístupem k dané on-line službě „značnou“ nebo „vysokou“ úroveň záruky.
+
+K tomuto uznání dojde do šesti měsíců od zveřejnění seznamu uvedeného v prvním pododstavci písm. a) Komisí.
+
+2. Pro účely přeshraniční autentizace pro on-line službu poskytovanou subjekty veřejného sektoru mohou tyto subjekty uznat prostředek pro elektronickou identifikaci, který byl vydán v rámci působnosti systému elektronické identifikace uvedeného na seznamu podle článku 9 a který odpovídá „nízké“ úrovni záruky.
 
 
 KAPITOLA III
@@ -358,7 +558,7 @@ Obecná ustanovení
 
 Odpovědnost za škodu a důkazní břemeno
 
-1. Aniž je dotčen odstavec 2, poskytovatelé služeb vytvářejících důvěru odpovídají za škodu, kterou úmyslně nebo z nedbalosti způsobí fyzické nebo právnické osobě nesplněním povinností podle tohoto nařízení.
+1. Bez ohledu na odstavec 2 tohoto článku odpovídají poskytovatelé služeb vytvářejících důvěru za škody, které úmyslně nebo z nedbalosti způsobí fyzické nebo právnické osobě nesplněním povinností podle tohoto nařízení a povinností v oblasti řízení kybernetických bezpečnostních rizik podle článku 18 směrnice XXXX/XXXX [o bezpečnosti sítí a informací 2].
 
 Důkazní břemeno, pokud jde o úmysl nebo nedbalost nekvalifikovaného poskytovatele služeb vytvářejících důvěru, nese fyzická nebo právnická osoba uplatňující nárok na náhradu škody podle prvního pododstavce.
 
@@ -373,21 +573,15 @@ V případě kvalifikovaného poskytovatele služeb vytvářejících důvěru s
 
 Mezinárodní aspekty
 
-1. Služby vytvářející důvěru poskytované poskytovateli služeb vytvářejících důvěru usazenými ve třetí zemi se uznávají jako právně rovnocenné kvalifikovaným službám vytvářejícím důvěru poskytovaným kvalifikovanými poskytovateli služeb vytvářejících důvěru usazenými v Unii, pokud jsou služby vytvářející důvěru pocházející ze třetí země uznány na základě dohody uzavřené mezi Unií a dotyčnou třetí zemí nebo mezinárodní organizací v souladu s článkem 218 Smlouvy o fungování EU.
+1. Komise může v souladu s čl. 48 odst. 2 přijmout prováděcí akty, kterými stanoví podmínky, za nichž lze požadavky třetí země vztahující se na poskytovatele služeb vytvářejících důvěru usazené na jejím území a na služby vytvářející důvěru, které poskytují, považovat za rovnocenné s požadavky vztahujícími se na kvalifikované poskytovatele služeb vytvářejících důvěru usazené v Unii a na kvalifikované služby vytvářející důvěru, které poskytují.
 
-2. Dohody uvedené v odstavci 1 zejména zajistí, aby:
-
-a) poskytovatelé služeb vytvářejících důvěru v třetí zemi nebo mezinárodní organizaci, s níž je dohoda uzavřena, a jimi poskytované služby vytvářející důvěru splňovali požadavky vztahující se na kvalifikované poskytovatele služeb vytvářejících důvěru usazené v Unii a jimi poskytované kvalifikované služby vytvářející důvěru;
-
-b) kvalifikované služby vytvářející důvěru poskytované kvalifikovanými poskytovateli služeb vytvářejících důvěru usazenými v Unii byly uznány jako právně rovnocenné službám vytvářejícím důvěru poskytovaným poskytovateli služeb vytvářejících důvěru v třetí zemi nebo mezinárodní organizaci, s níž je dohoda uzavřena.
-
+2. Pokud Komise přijala prováděcí akt podle odstavce 1 nebo uzavřela mezinárodní dohodu o vzájemném uznávání služeb vytvářejících důvěru v souladu s článkem 218 Smlouvy, považují se služby vytvářející důvěru poskytované poskytovateli usazenými v dotčené třetí zemi za rovnocenné s kvalifikovanými službami vytvářejícími důvěru poskytovanými kvalifikovanými poskytovateli služeb vytvářejících důvěru usazenými v Unii.
 
 Článek 15
 
 Přístupnost pro osoby se zdravotním postižením
 
-Je-li to proveditelné, měly by být poskytované služby vytvářející důvěru a konečné uživatelské produkty používané při poskytování těchto služeb dostupné osobám se zdravotním postižením.
-
+Poskytování služeb vytvářejících důvěru a konečných uživatelských produktů používaných při poskytování těchto služeb je zpřístupněno osobám se zdravotním postižením v souladu s požadavky na přístupnost stanovenými v příloze I směrnice 2019/882 o požadavcích na přístupnost u výrobků a služeb.
 
 Článek 16
 
@@ -422,13 +616,13 @@ a) spolupracovat s ostatními orgány dohledu a poskytovat jim pomoc v souladu s
 
 b) provádět analýzu zpráv o posouzení shody uvedených v čl. 20 odst. 1 a čl. 21 odst. 1;
 
-c) informovat ostatní orgány dohledu a veřejnost o případech narušení bezpečnosti nebo ztráty integrity v souladu s čl. 19 odst. 2;
+c) informovat příslušné vnitrostátní orgány dotčených členských států určené podle směrnice (EU) XXXX/XXXX [o bezpečnosti sítí a informací 2] o veškerých závažných případech narušení bezpečnosti nebo ztráty integrity, o nichž se dozvědí při plnění svých úkolů. Pokud se závažné narušení bezpečnosti nebo ztráta integrity týká jiných členských států, orgán dohledu informuje jednotné kontaktní místo dotčeného členského státu určené podle směrnice (EU) XXXX/XXXX (o bezpečnosti sítí a informací 2);
 
 d) podávat Komisi zprávy o svých hlavních činnostech v souladu s odstavcem 6 tohoto článku;
 
 e) provádět audity kvalifikovaných poskytovatelů služeb vytvářejících důvěru nebo požadovat, aby subjekt posuzování shody provedl posouzení shody těchto poskytovatelů v souladu s čl. 20 odst. 2;
 
-f) spolupracovat s orgány pro ochranu údajů, zejména je bez zbytečného odkladu informovat o výsledcích auditů kvalifikovaných poskytovatelů služeb vytvářejících důvěru, jestliže podle všeho došlo k porušení pravidel týkajících se ochrany osobních údajů;
+f) spolupracovat s dozorovými úřady zřízenými podle nařízení (EU) 2016/679, zejména tím, že je bez zbytečného odkladu informují o výsledcích auditů kvalifikovaných poskytovatelů služeb vytvářejících důvěru, jestliže byla porušena pravidla týkající se ochrany osobních údajů, a o porušeních bezpečnosti, která představují porušení ochrany osobních údajů;
 
 g) udělovat poskytovatelům služeb vytvářejících důvěru a jimi poskytovaným službám status kvalifikovaného poskytovatele nebo kvalifikované služby a odnímat tento status v souladu s články 20 a 21;
 
@@ -440,20 +634,17 @@ j) požadovat, aby poskytovatelé služeb vytvářejících důvěru napravili p
 
 5. Členské státy mohou vyžadovat, aby orgán dohledu zavedl, udržoval a aktualizoval důvěryhodnou infrastrukturu v souladu s podmínkami stanovenými vnitrostátním právem.
 
-6. Do 31. března každého roku předloží každý orgán dohledu Komisi zprávu o svých hlavních činnostech v předchozím kalendářním roce, spolu se shrnutím oznámení o narušení bezpečnosti, která obdržel od poskytovatelů služeb vytvářejících důvěru v souladu s čl. 19 odst. 2.
+6. Do 31. března každého roku předloží každý orgán dohledu Komisi zprávu o svých hlavních činnostech v předchozím kalendářním roce.
 
 7. Výroční zprávu uvedenou v odstavci 6 Komise zpřístupní členským státům.
 
-8. Komise může prostřednictvím prováděcích aktů stanovit formáty a postupy pro podávání zpráv podle odstavce 6. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+8. Do dvanácti měsíců od vstupu tohoto nařízení v platnost Komise prostřednictvím prováděcích aktů dále upřesní úkoly dozorových úřadů uvedených v odstavci 4 a určí formáty a postupy pro podávání zpráv podle odstavce 6. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 
 Článek 18
 
-Vzájemná pomoc
-
-1. Orgány dohledu vzájemně spolupracují za účelem výměny osvědčených postupů.
-
-Po obdržení odůvodněné žádosti jiného orgánu dohledu poskytne orgán dohledu danému orgánu pomoc, aby bylo možné zajistit jednotný výkon činností orgánů dohledu. Vzájemná pomoc může zahrnovat zejména žádosti o informace a opatření v oblasti dohledu, například žádosti o provedení prověrek v souvislosti se zprávami o posouzení shody podle článků 20 a 21.
+Vzájemná pomoc a spolupráce
+1. Orgány dohledu vzájemně spolupracují za účelem výměny osvědčených postupů a informací týkajících se poskytování služeb vytvářejících důvěru.
 
 2. Orgán dohledu, jemuž byla podána žádost o pomoc, může tuto žádost zamítnout z kteréhokoliv z těchto důvodů:
 
@@ -464,6 +655,11 @@ b) požadovaná pomoc je nepřiměřená činnostem v oblasti dohledu, které da
 c) poskytnutí požadované pomoci by nebylo slučitelné s tímto nařízením.
 
 3. Členské státy mohou svým příslušným orgánům dohledu případně povolit provádět společná šetření, na nichž se podílejí pracovníci orgánů dohledu z ostatních členských států. Ujednání a postupy pro tyto společné akce dohodnou a zavedou dotčené členské státy v souladu se svými vnitrostátními právními předpisy.
+
+4. Orgány dohledu a příslušné vnitrostátní orgány podle směrnice Evropského parlamentu a Rady (EU) XXXX/XXXX [o bezpečnosti sítí a informací 2] spolupracují a vzájemně si pomáhají s cílem zajistit, aby poskytovatelé služeb vytvářejících důvěru dodržovali požadavky stanovené v tomto nařízení a směrnici (EU) XXXX/XXXX [o bezpečnosti sítí a informací 2]. Orgán dohledu požádá příslušný vnitrostátní orgán podle směrnice XXXX/XXXX [o bezpečnosti sítí a informací 2] o provedení opatření dohledu s cílem ověřit, zda poskytovatelé služeb vytvářejících důvěru splňují požadavky směrnice XXXX/XXXX (o bezpečnosti sítí a informací 2), požadovat po poskytovatelích služeb vytvářejících důvěru nápravu v případě nedodržování těchto požadavků, včas poskytnout výsledky veškerých činností dohledu souvisejících s poskytovateli služeb vytvářejících důvěru a informovat orgány dohledu o příslušných incidentech oznámených v souladu se směrnicí XXXX/XXXX [o bezpečnosti sítí a informací 2].
+
+5. Do dvanácti měsíců od vstupu tohoto nařízení v platnost stanoví Komise prostřednictvím prováděcích aktů nezbytná procesní opatření pro usnadnění spolupráce mezi orgány dohledu uvedenými v odstavci 1.
+
 
 
 Článek 19
@@ -499,17 +695,23 @@ Kvalifikované služby vytvářející důvěru
 
 Dohled nad kvalifikovanými poskytovateli služeb vytvářejících důvěru
 
-1. Kvalifikovaní poskytovatelé služeb vytvářejících důvěru se na vlastní náklady alespoň jednou za 24 měsíců podrobí auditu ze strany subjektu posuzování shody. Účelem auditu je potvrzení toho, že kvalifikovaní poskytovatelé služeb vytvářejících důvěru i jimi poskytované kvalifikované služby vytvářející důvěru splňují požadavky stanovené v tomto nařízení. Kvalifikovaní poskytovatelé služeb vytvářejících důvěru předloží výslednou zprávu o posouzení shody do tří pracovních dnů od jejího obdržení orgánu dohledu.
+1. Kvalifikovaní poskytovatelé služeb vytvářejících důvěru se na vlastní náklady alespoň jednou za 24 měsíců podrobí auditu ze strany subjektu posuzování shody. Audit potvrdí, že kvalifikovaní poskytovatelé služeb vytvářejících důvěru i jimi poskytované kvalifikované služby vytvářející důvěru splňují požadavky stanovené v tomto nařízení a v článku 18 směrnice (EU) XXXX/XXXX [o bezpečnosti sítí a informací 2]. Kvalifikovaní poskytovatelé služeb vytvářejících důvěru předloží výslednou zprávu o posouzení shody do tří pracovních dnů od jejího obdržení orgánu dohledu.
 
-2. Aniž je dotčen odstavec 1, může orgán dohledu u kvalifikovaných poskytovatelů služeb vytvářejících důvěru na jejich náklady kdykoli provést audit nebo požádat subjekt posuzování shody o provedení posouzení shody za účelem potvrzení, že oni sami i jimi poskytované kvalifikované služby vytvářející důvěru splňují požadavky stanovené v tomto nařízení. Jestliže podle všeho došlo k porušení pravidel týkajících se ochrany osobních údajů, sdělí orgán dohledu výsledky svých auditů orgánům pro ochranu údajů.
+2. Aniž je dotčen odstavec 1, může orgán dohledu u kvalifikovaných poskytovatelů služeb vytvářejících důvěru na jejich náklady kdykoli provést audit nebo požádat subjekt posuzování shody o provedení posouzení shody za účelem potvrzení, že oni sami i jimi poskytované kvalifikované služby vytvářející důvěru splňují požadavky stanovené v tomto nařízení. Jestliže podle všeho došlo k porušení pravidel týkajících se ochrany osobních údajů, sdělí orgán dohledu výsledky svých auditů dozorovým úřadům podle nařízení (EU) 2016/679.
 
-3. Pokud orgán dohledu požaduje, aby kvalifikovaný poskytovatel služeb vytvářejících důvěru napravil neplnění požadavků podle tohoto nařízení, a tento poskytovatel ve lhůtě případně stanovené orgánem dohledu neučiní příslušné kroky, může orgán dohledu zejména s přihlédnutím k rozsahu, délce trvání a důsledkům daného neplnění odejmout danému poskytovateli a jím poskytované dotčené službě status kvalifikovaného poskytovatele nebo kvalifikované služby a informovat o této skutečnosti subjekt uvedený v čl. 22 odst. 3 za účelem aktualizace důvěryhodných seznamů podle čl. 22 odst. 1. Orgán dohledu vyrozumí daného kvalifikovaného poskytovatele služeb vytvářejících důvěru o odnětí statusu kvalifikovaného poskytovatele nebo kvalifikované služby.
+3. Pokud kvalifikovaný poskytovatel služeb vytvářejících důvěru nesplňuje některý z požadavků stanovených tímto nařízením, orgán dohledu po něm případně požaduje, aby ve stanovené lhůtě zjednal nápravu.
 
-4. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro:
+Pokud tento poskytovatel nezjedná nápravu, a to ve lhůtě případně stanovené orgánem dohledu, může orgán dohledu zejména s přihlédnutím k rozsahu, délce trvání a důsledkům daného neplnění odejmout danému poskytovateli nebo jím poskytované dotčené službě status kvalifikovaného poskytovatele nebo kvalifikované služby a případně jej požádat, aby ve stanovené lhůtě splnil požadavky směrnice XXXX/XXXX [o bezpečnosti sítí a informací 2]. Orgán dohledu informuje orgán uvedený v čl. 22 odst. 3 za účelem aktualizace důvěryhodných seznamů uvedených v čl. 22 odst. 1.
 
-a) akreditaci subjektů posuzování shody a pro zprávy o posouzení shody podle odstavce 1;
+Orgán dohledu vyrozumí daného kvalifikovaného poskytovatele služeb vytvářejících důvěru o odnětí statusu kvalifikovaného poskytovatele nebo kvalifikované služby.
 
-b) pravidla auditu, podle nichž budou subjekty posuzování shody provádět posuzování shody kvalifikovaných poskytovatelů služeb vytvářejících důvěru podle odstavce 1.
+4. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro:
+
+a)akreditaci subjektů posuzování shody a pro zprávy o posouzení shody podle odstavce 1;
+
+b)auditní požadavky vztahující se na subjekty posuzování shody při provádění posuzování shody kvalifikovaných poskytovatelů služeb vytvářejících důvěru podle odstavce 1;
+
+c)režimy posuzování shody vztahující se na posuzování shody kvalifikovaných poskytovatelů služeb vytvářejících důvěru prováděné subjekty posuzování shody a na předkládání zpráv o posouzení shody uvedených v odstavci 1.
 
 Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
@@ -522,14 +724,15 @@ Zahájení poskytování kvalifikované služby vytvářející důvěru
 
 2. Orgán dohledu ověří, zda poskytovatel služeb vytvářejících důvěru a jím poskytované služby vytvářející důvěru splňují požadavky stanovené v tomto nařízení, zejména požadavky na kvalifikované poskytovatele služeb vytvářejících důvěru a na jimi poskytované kvalifikované služby vytvářející důvěru.
 
+S cílem ověřit, zda poskytovatel služeb vytvářejících důvěru splňuje požadavky stanovené v článku 18 směrnice XXXX [o bezpečnosti sítí a informací 2], orgán dohledu požádá příslušné orgány uvedené ve směrnici XXXX [o bezpečnosti sítí a informací 2] o provedení opatření dohledu v tomto ohledu a o poskytnutí informací o výsledku do tří dnů od jejich dokončení.
+
 Dojde-li orgán dohledu k závěru, že poskytovatel služeb vytvářejících důvěru a jím poskytované služby vytvářející důvěru splňují požadavky uvedené v prvním pododstavci, udělí orgán dohledu tomuto poskytovateli služeb vytvářejících důvěru a jím poskytovaným službám vytvářejícím důvěru status kvalifikovaného poskytovatele nebo kvalifikované služby a uvědomí o tom subjekt uvedený v čl. 22 odst. 3 za účelem aktualizace důvěryhodných seznamů podle čl. 22 odst. 1, a to do tří měsíců od obdržení oznámení podle odstavce 1 tohoto článku.
 
 Není-li ověření dokončeno do tří měsíců od oznámení, vyrozumí orgán dohledu poskytovatele služeb vytvářejících důvěru a uvede důvody prodlení a dobu, v níž bude ověřování dokončeno.
 
 3. Kvalifikovaní poskytovatelé služeb vytvářejících důvěru mohou začít danou kvalifikovanou službu vytvářející důvěru poskytovat poté, co byl status kvalifikovaného poskytovatele nebo kvalifikované služby vyznačen v důvěryhodných seznamech uvedených v čl. 22 odst. 1.
 
-4. Komise může prostřednictvím prováděcích aktů stanovit formáty a postupy pro účely odstavců 1 a 2. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
-
+4. Do dvanácti měsíců od vstupu tohoto nařízení v platnost stanoví Komise prostřednictvím prováděcích aktů formáty a postupy oznamování a ověřování pro účely odstavců 1 a 2 tohoto článku. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 Článek 22
 
@@ -554,6 +757,8 @@ Značka důvěry EU pro kvalifikované služby vytvářející důvěru
 
 2. Pokud kvalifikovaní poskytovatelé služeb vytvářejících důvěru používají pro kvalifikované služby vytvářející důvěru uvedené v odstavci 1 značku důvěry EU, zajistí, aby byl na jejich internetových stránkách k dispozici odkaz na příslušný důvěryhodný seznam.
 
+2a. Odstavce 1 a 2 se použijí rovněž na poskytovatele služeb vytvářejících důvěru usazené ve třetích zemích a na služby, které poskytují, za předpokladu, že byli uznáni v Unii v souladu s článkem 14.
+
 3. Do 1. července 2015 Komise prostřednictvím prováděcích aktů stanoví specifikace týkající se podoby, a zejména formátu, uspořádání, velikosti a vzhledu značky důvěry EU pro kvalifikované služby vytvářející důvěru. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 
@@ -561,17 +766,21 @@ Značka důvěry EU pro kvalifikované služby vytvářející důvěru
 
 Požadavky na kvalifikované poskytovatele služeb vytvářejících důvěru
 
-1. Při vydávání kvalifikovaného certifikátu pro službu vytvářející důvěru ověří kvalifikovaný poskytovatel služeb vytvářejících důvěru pomocí vhodných prostředků a v souladu s vnitrostátním právem totožnost a případně zvláštní znaky fyzické nebo právnické osoby, jíž je kvalifikovaný certifikát vydáván.
+1. Při vydávání kvalifikovaného certifikátu nebo kvalifikovaného elektronického potvrzení atributů pro službu vytvářející důvěru ověří kvalifikovaný poskytovatel služeb vytvářejících důvěru totožnost a případně zvláštní znaky fyzické nebo právnické osoby, jíž se kvalifikovaný certifikát nebo kvalifikované elektronické potvrzení atributu vydává.
 
-Kvalifikovaný poskytovatel služeb vytvářejících důvěru ověří informace uvedené v prvním pododstavci přímo nebo tím, že se v souladu s vnitrostátním právem spolehne na třetí osobu:
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru ověří informace uvedené v prvním pododstavci přímo nebo tím, že se spolehne na třetí osobu, a to jedním z těchto způsobů:
 
-a) na základě fyzické přítomnosti fyzické osoby nebo oprávněného zástupce právnické osoby; nebo
+a)prostřednictvím oznámených prostředků pro elektronickou identifikaci, které splňují požadavky stanovené v článku 8, pokud jde o „značnou“ nebo „vysokou“ úroveň záruky;
 
-b) na dálku s využitím prostředku pro elektronickou identifikaci, u něhož byla před vydáním kvalifikovaného certifikátu zajištěna fyzická přítomnost fyzické osoby nebo oprávněného zástupce právnické osoby a jenž splňuje požadavky stanovené v článku 8, pokud jde o značnou nebo vysokou úroveň záruky; nebo
+b)pomocí kvalifikovaného elektronického potvrzení atributů nebo certifikátu kvalifikovaného elektronického podpisu nebo kvalifikované elektronické pečeti, vydaných v souladu s písmeny a), c) nebo d);
 
-c) pomocí certifikátu kvalifikovaného elektronického podpisu nebo kvalifikované elektronické pečeti, vydaného v souladu s písmenem a) nebo b); nebo
+c)použitím jiných metod identifikace, které zajišťují identifikaci fyzické osoby s vysokou úrovní spolehlivosti, jejíž shodu potvrdí subjekt posuzování shody;
 
-d) pomocí jiných identifikačních metod uznávaných na vnitrostátní úrovni, které poskytují záruku spolehlivosti rovnocennou fyzické přítomnosti. Tuto rovnocennou záruku musí potvrdit subjekt posuzování shody.
+d) před uzavřením smluvního vztahu informuje jasným, srozumitelným a jednoduše dostupným způsobem, ve veřejně dostupném prostoru a individuálně osobu, která chce využít kvalifikovanou službu vytvářející důvěru, o přesných podmínkách používání této služby, včetně případných omezení jejího využívání;
+
+
+
+1a. Do dvanácti měsíců od vstupu tohoto nařízení v platnost stanoví Komise prostřednictvím prováděcích aktů minimální technické specifikace, normy a postupy týkající se ověřování identity a atributů v souladu s odst. 1 písm. c). Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 2. Kvalifikovaný poskytovatel služeb vytvářejících důvěru poskytující kvalifikované služby vytvářející důvěru:
 
@@ -593,9 +802,19 @@ ii) záznamy a změny v uložených datech mohly provádět pouze oprávněné o
 
 iii) bylo možno ověřit pravost dat;
 
-g) přijímá vhodná opatření proti padělání a odcizení dat;
+fa) má vhodné politiky a přijímá odpovídající opatření pro řízení právních, obchodních, provozních a jiných přímých nebo nepřímých rizik poskytování kvalifikované služby vytvářející důvěru. Bez ohledu na ustanovení článku 18 směrnice EU XXXX/XXX [o bezpečnosti sítí a informací 2] tato opatření zahrnují alespoň:
 
-h) po přiměřenou dobu, i poté, co ukončil svou činnost kvalifikovaného poskytovatele služeb vytvářejících důvěru, eviduje a zpřístupňuje veškeré příslušné informace týkající se dat, která vydal a obdržel, zejména pro účely poskytnutí důkazů v soudním a správním řízení a pro účely zajištění kontinuity služby. Tato evidence může mít elektronickou podobu;
+i) opatření týkající se registrace a spuštění služby;
+
+ii) opatření týkající se procesních nebo správních kontrol;
+
+iii) opatření týkající se řízení a provádění služeb.
+
+fb) oznámí orgánu dohledu a případně dalším příslušným orgánům veškerá související porušení nebo narušení při provádění opatření uvedených v písm. fa) bodech i), ii) a iii), která mají významný dopad na poskytovanou službu vytvářející důvěru nebo na osobní údaje v ní uchovávané.
+
+g) přijímá vhodná opatření proti padělání, odcizení nebo zneužití dat nebo neoprávněnému vymazání, pozměnění nebo znepřístupnění dat;
+
+h) po nezbytně dlouhou dobu poté, co ukončil svou činnost kvalifikovaného poskytovatele služeb vytvářejících důvěru, eviduje a zpřístupňuje veškeré příslušné informace týkající se dat, která vydal a obdržel, pro účely poskytnutí důkazů v soudním a správním řízení a pro účely zajištění kontinuity služby. Tato evidence může mít elektronickou podobu;
 
 i) má k dispozici aktualizovaný plán ukončení činnosti k zajištění kontinuity služby v souladu s předpisy ověřenými orgánem dohledu podle čl. 17 odst. 4 písm. i);
 
@@ -607,7 +826,11 @@ k) pokud se jedná o kvalifikovaného poskytovatele služeb vytvářejících d�
 
 4. Pokud jde o odstavec 3, kvalifikovaní poskytovatelé služeb vytvářejících důvěru vydávající kvalifikované certifikáty poskytnou kterékoli spoléhající se straně informace o platnosti nebo o zneplatnění kvalifikovaných certifikátů, které vydali. Tyto informace se poskytnou alespoň na základě certifikátu, a to kdykoli i po skončení doby platnosti certifikátu, automatizovaným způsobem, který je spolehlivý, bezplatný a účinný.
 
-5. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro důvěryhodné systémy a produkty, které splňují požadavky podle odst. 2 písm. e) a f) tohoto článku. Pokud důvěryhodné systémy a produkty vyhovují těmto normám, předpokládá se shoda s požadavky stanovenými v tomto článku. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+4a. Odstavce 3 a 4 se odpovídajícím způsobem použijí na zrušení elektronických potvrzení atributů.
+
+5. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro požadavky uvedené v odstavci 2. Pokud důvěryhodné systémy a produkty vyhovují těmto normám, předpokládá se shoda s požadavky stanovenými v tomto článku. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+
+6. Komisi je svěřena pravomoc přijímat akty v přenesené pravomoci, pokud jde o dodatečná opatření uvedená v odst. 2 písm. fa).
 
 ODDÍL 4
 
@@ -673,7 +896,7 @@ a) je-li platnost kvalifikovaného certifikátu pro elektronický podpis dočasn
 
 b) doba pozastavení platnosti je jasně vyznačena v databázi certifikátů a pozastavení platnosti je po svou dobu viditelné ve službě poskytující informace o statusu certifikátu.
 
-6. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro kvalifikované certifikáty pro elektronický podpis. Pokud kvalifikovaný certifikát pro elektronický podpis vyhovuje těmto normám, předpokládá se shoda s požadavky stanovenými v příloze I. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+6. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro kvalifikované certifikáty pro elektronické podpisy. Pokud kvalifikovaný certifikát pro elektronický podpis vyhovuje těmto normám, předpokládá se shoda s požadavky stanovenými v příloze I. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 
 Článek 29
@@ -682,7 +905,27 @@ Požadavky na kvalifikované prostředky pro vytváření elektronických podpis
 
 1. Kvalifikované prostředky pro vytváření elektronických podpisů musí splňovat požadavky stanovené v příloze II.
 
+1a. Data pro vytváření elektronických podpisů může jménem podepisující osoby vytvářet, spravovat a kopírovat pouze kvalifikovaný poskytovatel služeb vytvářejících důvěru, který poskytuje kvalifikovanou službu vytvářející důvěru pro správu prostředků pro vytváření elektronických kvalifikovaných podpisů na dálku.
+
 2. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro kvalifikované prostředky pro vytváření elektronických podpisů. Pokud kvalifikovaný prostředek pro vytváření elektronických podpisů vyhovuje těmto normám, předpokládá se shoda s požadavky stanovenými v příloze II. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+
+Článek 29a
+
+Požadavky na kvalifikovanou službu správy prostředků pro vytváření elektronických podpisů na dálku
+
+1. Správu prostředků pro vytváření kvalifikovaných elektronických podpisů na dálku jako kvalifikované služby může provádět pouze kvalifikovaný poskytovatel služeb vytvářejících důvěru, který:
+
+a)vytváří nebo spravuje data pro vytváření elektronických podpisů jménem podepisující osoby;
+
+b)bez ohledu na přílohu II bod 1 písm. d) kopíruje data pro vytváření elektronických podpisů pouze pro účely zálohování a jsou-li splněny tyto požadavky:
+
+bezpečnost zkopírovaných souborů dat je na stejné úrovni jako u původních souborů dat;
+
+počet zkopírovaných souborů dat nepřesáhne minimum potřebné pro zajištění kontinuity služby;
+
+c)splňuje všechny požadavky uvedené v certifikační zprávě konkrétního kvalifikovaného prostředku pro vytváření podpisů na dálku vydaného podle článku 30.
+
+2. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů technické specifikace a referenční čísla norem pro účely odstavce 1.
 
 
 Článek 30
@@ -701,6 +944,8 @@ b) jiném postupu, než je postup uvedený v písmenu a), za podmínky, že pou�
 
 Komise prostřednictvím prováděcích aktů sestaví seznam norem pro posuzování bezpečnosti produktů informačních technologií uvedený v prvním pododstavci písm. a). Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
+3a. Certifikát uvedený v odstavci 1 je platný po dobu pěti let pod podmínkou pravidelného hodnocení zranitelnosti každé dva roky. Jsou-li zjištěna zranitelná místa a nejsou-li napravena, certifikace se odejme.
+
 4. Komise je zmocněna k přijímání aktů v přenesené pravomoci v souladu s článkem 47, pokud jde o stanovení zvláštních kritérií, která mají splňovat určené subjekty uvedené v odstavci 1 tohoto článku.
 
 
@@ -712,7 +957,7 @@ Zveřejnění seznamu certifikovaných kvalifikovaných prostředků pro vytvá�
 
 2. Na základě obdržených informací Komise zřizuje, zveřejňuje a udržuje seznam certifikovaných kvalifikovaných prostředků pro vytváření elektronických podpisů.
 
-3. Komise může prostřednictvím prováděcích aktů stanovit formáty a postupy použitelné pro účely odstavce 1. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+3. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů formáty a postupy použitelné pro účely odstavce 1. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 
 Článek 32
@@ -737,10 +982,11 @@ g) nebyla ohrožena integrita podepsaných dat;
 
 h) v okamžiku podpisu byly splněny požadavky stanovené v článku 26.
 
+Pokud ověřování platnosti kvalifikovaných elektronických podpisů vyhovuje normám uvedeným v odstavci 3, předpokládá se shoda s požadavky stanovenými v prvním pododstavci.
+
 2. Systém použitý k ověření platnosti kvalifikovaného elektronického podpisu musí poskytovat spoléhající se straně řádný výsledek postupu ověření platnosti a umožňovat jí zjistit jakékoli problémy týkající se bezpečnosti.
 
-3. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro ověřování platnosti kvalifikovaných elektronických podpisů. Pokud ověřování platnosti kvalifikovaných elektronických podpisů vyhovuje těmto normám, předpokládá se shoda s požadavky stanovenými v odstavci 1. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
-
+3. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro ověřování kvalifikovaných elektronických podpisů. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 Článek 33
 
@@ -761,7 +1007,9 @@ Kvalifikovaná služba uchovávání kvalifikovaných elektronických podpisů
 
 1. Kvalifikovanou službu uchovávání kvalifikovaných elektronických podpisů může poskytovat pouze kvalifikovaný poskytovatel služeb vytvářejících důvěru, který používá postupy a technologie, jež jsou s to zajistit důvěryhodnost kvalifikovaného elektronického podpisu i po uplynutí doby technické platnosti.
 
-2. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro kvalifikovanou službu uchovávání kvalifikovaných elektronických podpisů. Pokud postupy pro kvalifikovanou službu uchovávání kvalifikovaných elektronických podpisů vyhovují těmto normám, předpokládá se shoda s požadavky stanovenými v odstavci 1. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+2. Pokud postupy pro kvalifikovanou službu uchovávání kvalifikovaných elektronických podpisů vyhovují normám uvedeným v odstavci 3, předpokládá se shoda s požadavky stanovenými v odstavci 1.
+
+3. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro kvalifikovanou službu uchovávání kvalifikovaných elektronických podpisů. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 ODDÍL 5
 
@@ -802,9 +1050,11 @@ Elektronické pečetě ve veřejných službách
 
 2. Pokud členský stát pro využití určité on-line služby, která je poskytována subjektem veřejného sektoru nebo jeho jménem, požaduje zaručenou elektronickou pečeť založenou na kvalifikovaném certifikátu, uznává zaručené elektronické pečetě založené na kvalifikovaném certifikátu a kvalifikované elektronické pečetě alespoň ve formátech nebo s použitím metod stanovených v prováděcích aktech uvedených v odstavci 5.
 
+2a. Pokud zaručená elektronická pečeť vyhovuje normám uvedeným v odstavci 4, předpokládá se shoda s požadavky na zaručené elektronické pečetě uvedenými v článku 36 a v odstavci 5 tohoto článku.
+
 3. Členské státy nesmějí v případě přeshraničního využívání on-line služby poskytované subjektem veřejného sektoru vyžadovat elektronickou pečeť s vyšší zárukou bezpečnosti než kvalifikovanou elektronickou pečeť.
 
-4. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro zaručené elektronické pečetě. Pokud zaručená elektronická pečeť vyhovuje těmto normám, předpokládá se shoda s požadavky na zaručené elektronické pečetě uvedenými v odstavcích 1 a 2 tohoto článku a v článku 36. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+4. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro zaručené elektronické pečetě. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 5. Do 18. září 2015 Komise s přihlédnutím ke stávajícím postupům, normám a právním aktům Unie stanoví prostřednictvím prováděcích aktů referenční formáty zaručených elektronických pečetí nebo referenční metody, jsou-li používány alternativní formáty. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
@@ -813,7 +1063,7 @@ Elektronické pečetě ve veřejných službách
 
 Kvalifikované certifikáty pro elektronické pečetě
 
-1. Kvalifikované certifikáty pro elektronické pečetě musí splňovat požadavky stanovené v příloze III.
+1. Kvalifikované certifikáty pro elektronické pečetě musí splňovat požadavky stanovené v příloze III. Pokud kvalifikovaný certifikát pro elektronickou pečeť vyhovuje normám uvedeným v odstavci 6, předpokládá se shoda s požadavky stanovenými v příloze III.
 
 2. Kvalifikované certifikáty pro elektronické pečetě nepodléhají žádným závazným požadavkům, které přesahují požadavky stanovené v příloze III.
 
@@ -827,7 +1077,7 @@ a) je-li platnost kvalifikovaného certifikátu pro elektronickou pečeť dočas
 
 b) doba pozastavení platnosti je jasně vyznačena v databázi certifikátů a pozastavení platnosti je po svou dobu viditelné ve službě poskytující informace o statusu certifikátu.
 
-6. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro kvalifikované certifikáty pro elektronické pečetě. Pokud kvalifikovaný certifikát pro elektronickou pečeť vyhovuje těmto normám, předpokládá se shoda s požadavky stanovenými v příloze III. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+6. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro kvalifikované certifikáty pro elektronické pečetě. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 
 Článek 39
@@ -840,6 +1090,11 @@ Kvalifikované prostředky pro vytváření elektronických pečetí
 
 3. Na zveřejnění seznamu certifikovaných kvalifikovaných prostředků pro vytváření elektronických pečetí se použije přiměřeně článek 31.
 
+Článek 39a
+
+Požadavky na kvalifikovanou službu správy prostředků pro vytváření elektronických pečetí na dálku
+
+Na kvalifikovanou službu správy prostředků pro vytváření elektronických pečetí na dálku se použije přiměřeně článek 29a.
 
 Článek 40
 
@@ -875,7 +1130,9 @@ b) je založeno na zdroji přesného času, který je spojen s koordinovaným sv
 
 c) je podepsáno s použitím zaručeného elektronického podpisu, opatřeno zaručenou elektronickou pečetí kvalifikovaného poskytovatele služeb vytvářejících důvěru nebo označeno jinou rovnocennou metodou.
 
-2. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro spojování data a času s daty a pro zdroje přesného času. Pokud spojení data a času s daty a zdroj přesného času vyhovují těmto normám, předpokládá se shoda s požadavky stanovenými v odstavci 1. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+1a. Pokud spojení data a času s daty a zdroj přesného času vyhovují normám uvedeným v odstavci 2, předpokládá se shoda s požadavky stanovenými v odstavci 1.
+
+2. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro spojení data a času s daty a zdroje přesného času. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 ODDÍL 7
 
@@ -911,7 +1168,9 @@ f) datum a čas odeslání, přijetí a případná změna dat jsou označeny pr
 
 V případě přenosu dat mezi dvěma či více kvalifikovanými poskytovateli služeb vytvářejících důvěru se požadavky uvedené v písm. a) až f) vztahují na všechny tyto kvalifikované poskytovatele služeb vytvářejících důvěru.
 
-2. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro postupy odesílání a přijímání dat. Pokud postup odesílání a přijímání dat vyhovuje těmto normám, předpokládá se shoda s požadavky stanovenými v odstavci 1. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+1a. Pokud postup odesílání a přijímání dat vyhovuje normám uvedeným v odstavci 2, předpokládá se shoda s požadavky stanovenými v odstavci 1.
+
+2. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro postupy odesílání a přijímání dat. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
 
 ODDÍL 8
 
@@ -922,9 +1181,115 @@ Autentizace internetových stránek
 
 Požadavky na kvalifikované certifikáty pro autentizaci internetových stránek
 
-1. Kvalifikované certifikáty pro autentizaci internetových stránek musí splňovat požadavky stanovené v příloze IV.
+1. Kvalifikované certifikáty pro autentizaci internetových stránek musí splňovat požadavky stanovené v příloze IV. Kvalifikované certifikáty pro autentizaci internetových stránek se považují za vyhovující požadavkům stanoveným v příloze IV, pokud vyhovují normám uvedeným v odstavci 3.
 
-2. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro kvalifikované certifikáty pro autentizaci internetových stránek. Pokud kvalifikovaný certifikát pro autentizaci internetových stránek vyhovuje těmto normám, předpokládá se shoda s požadavky stanovenými v příloze IV. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+2. Kvalifikované certifikáty pro autentizaci internetových stránek uvedené v odstavci 1 jsou rozpoznávány internetovými prohlížeči. Pro tyto účely internetové prohlížeče zajistí, aby údaje o totožnosti poskytnuté pomocí kterékoli z metod byly zobrazeny uživatelsky přívětivým způsobem. Internetové prohlížeče zajistí podporu a interoperabilitu s kvalifikovanými certifikáty pro autentizaci internetových stránek uvedenými v odstavci 1, s výjimkou podniků, které jsou považovány za mikropodniky a malé podniky v souladu s doporučením Komise 2003/361/ES, v prvních pěti letech fungování jako poskytovatelé služeb prohlížení internetových stránek.
+
+3. Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů specifikace a referenční čísla norem pro kvalifikované certifikáty pro autentizaci internetových stránek uvedené v odstavci 1. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+
+
+ODDÍL 9
+
+ELEKTRONICKÉ POTVRZOVÁNÍ ATRIBUTŮ
+
+Článek 45a
+
+Právní účinky elektronického potvrzení atributů
+
+1. Elektronickému potvrzení atributů nesmějí být upírány právní účinky a nesmí být odmítáno jako důkaz v soudním a správním řízení pouze z toho důvodu, že má elektronickou podobu.
+
+2. Kvalifikované elektronické potvrzení atributů má stejný právní účinek jako zákonně vydaná potvrzení v tištěné podobě.
+
+3. Kvalifikované elektronické potvrzení atributů vydané v jednom členském státě se uznává jako kvalifikované elektronické potvrzení atributů v jakémkoli jiném členském státě.
+
+Článek 45b
+
+Elektronické potvrzování atributů ve veřejných službách
+
+Pokud se podle vnitrostátního práva pro přístup k on-line službě poskytované subjektem veřejného sektoru vyžaduje elektronická identifikace s použitím prostředku pro elektronickou identifikaci a autentizace, osobní identifikační údaje v elektronickém potvrzení atributů nenahrazují elektronickou identifikaci s použitím prostředku pro elektronickou identifikaci a autentizaci pro elektronickou identifikaci, pokud to členský stát nebo subjekt veřejného sektoru výslovně nepovolí. V takovém případě se rovněž přijímá kvalifikované elektronické potvrzování atributů z jiných členských států.
+
+Článek 45c
+
+Požadavky na kvalifikované potvrzení atributů
+
+1. Kvalifikované elektronické potvrzení atributů musí splňovat požadavky stanovené v příloze V. Kvalifikované elektronické potvrzení atributů se považuje za vyhovující požadavkům stanoveným v příloze V, pokud vyhovuje normám uvedeným v odstavci 4.
+
+2. Kvalifikovaná elektronická potvrzení atributů nepodléhají žádným závazným požadavkům kromě požadavků stanovených v příloze V.
+
+3. Pokud bylo kvalifikované potvrzení elektronických atributů po počátečním vydání zneplatněno, ztrácí okamžikem zneplatnění platnost a jeho status se nemůže v žádném případě změnit zpět.
+
+4. Do šesti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcího aktu o provádění evropské peněženky digitální identity, jak je uvedeno v čl. 6a odst. 10, referenční čísla norem pro kvalifikovaná elektronická potvrzení atributů.
+
+Článek 45d
+
+Ověřování atributů podle autentických zdrojů
+
+1. Členské státy zajistí, aby přinejmenším pro atributy uvedené v příloze VI, pokud se tyto atributy spoléhají na autentické zdroje v rámci veřejného sektoru, byla přijata opatření, která kvalifikovaným poskytovatelům elektronických potvrzení atributů umožní na žádost uživatele elektronickými prostředky ověřit autenticitu atributu přímo porovnáním s příslušným autentickým zdrojem na vnitrostátní úrovni nebo prostřednictvím určených zprostředkovatelů uznaných na vnitrostátní úrovni v souladu s vnitrostátními právními předpisy nebo právními předpisy Unie.
+
+2. Do šesti měsíců od vstupu tohoto nařízení v platnost a s přihlédnutím k příslušným mezinárodním normám stanoví Komise prostřednictvím prováděcího aktu o provádění evropské peněženky digitální identity, jak je uvedeno v čl. 6a odst. 10, minimální technické specifikace, normy a postupy s odkazem na katalog atributů a systémy potvrzování atributů a ověřovací postupy pro kvalifikované elektronické potvrzení atributů.
+
+Článek 45e
+
+Vydávání elektronických potvrzení atributů evropským peněženkám digitální identity
+
+Poskytovatelé kvalifikovaných elektronických potvrzení atributů poskytují rozhraní s evropskými peněženkami digitální identity vydanými v souladu s článkem 6a.
+
+Článek 45f
+
+Dodatečná pravidla poskytování služeb elektronického potvrzování atributů
+
+1. Poskytovatelé kvalifikovaných a nekvalifikovaných služeb elektronického potvrzování atributů nesmějí kombinovat osobní údaje týkající se poskytování těchto služeb s osobními údaji z jiných služeb, které nabízejí.
+
+2. Osobní údaje týkající se poskytování služeb elektronického potvrzování atributů jsou uchovávány logicky odděleně od jiných uchovávaných údajů.
+
+3. Osobní údaje týkající se poskytování kvalifikovaných služeb elektronického potvrzování atributů jsou uchovávány fyzicky a logicky odděleně od jakýchkoli jiných uchovávaných údajů.
+
+4. Poskytovatelé kvalifikovaných služeb elektronického potvrzování atributů poskytují tyto služby v rámci samostatného právního subjektu.
+
+ODDÍL 10
+
+KVALIFIKOVANÉ SLUŽBY ELEKTRONICKÉ ARCHIVACE
+
+Článek 45g
+
+Kvalifikované služby elektronické archivace
+
+Kvalifikovanou službu elektronické archivace elektronických dokumentů může poskytovat pouze kvalifikovaný poskytovatel služeb vytvářejících důvěru, který používá postupy a technologie, jež jsou s to zajistit důvěryhodnost elektronického dokumentu i po uplynutí doby technické platnosti.
+
+Do dvanácti měsíců od vstupu tohoto nařízení v platnost určí Komise prostřednictvím prováděcích aktů referenční čísla norem pro služby elektronické archivace. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+
+ODDÍL 11
+
+ELEKTRONICKÉ ÚČETNÍ KNIHY
+
+Článek 45h
+
+Právní účinky elektronických účetních knih
+
+1. Elektronické účetní knize nesmějí být upírány právní účinky a nesmí být odmítána jako důkaz v soudním a správním řízení pouze z toho důvodu, že má elektronickou podobu nebo že nesplňuje požadavky na kvalifikované elektronické pečetě.
+
+2. U kvalifikované elektronické účetní knihy platí domněnka jedinečnosti a pravosti údajů, které obsahuje, správnosti jejich data a času a jejich chronologického řazení v rámci účetní knihy.
+
+Článek 45i
+
+Požadavky na kvalifikované elektronické účetní knihy
+
+1. Kvalifikované elektronické účetní knihy musí splňovat tyto požadavky:
+
+a)jsou vytvářeny jedním či více kvalifikovanými poskytovateli služeb vytvářejících důvěru;
+
+b)zajišťují jedinečnost, autenticitu a správné pořadí údajů zaznamenaných v účetní knize;
+
+c)zajišťují správné chronologické řazení údajů v účetní knize a správnost data a času vložení údajů;
+
+d)zaznamenávají údaje takovým způsobem, že je možné zjistit jakoukoliv následnou změnu údajů.
+
+2. Pokud elektronická účetní kniha vyhovuje normám uvedeným v odstavci 3, předpokládá se shoda s požadavky stanovenými v odstavci 1.
+
+3. Komise může prostřednictvím prováděcích aktů určit referenční čísla norem pro postupy provádění a registrace souboru údajů do kvalifikované elektronické účetní knihy a pro vytváření kvalifikované elektronické účetní knihy. Tyto prováděcí akty se přijímají přezkumným postupem podle čl. 48 odst. 2.
+
+
+
 
 KAPITOLA IV
 
@@ -965,6 +1330,26 @@ Postup projednávání ve výboru
 
 2. Odkazuje-li se na tento odstavec, použije se článek 5 nařízení (EU) č. 182/2011.
 
+
+Článek 48a
+
+Požadavky týkající se podávání zpráv
+
+1. Členské státy zajistí shromažďování statistických údajů týkajících se fungování evropských peněženek digitální identity a kvalifikovaných služeb vytvářejících důvěru.
+
+2. Statistické údaje shromážděné v souladu s odstavcem 1 zahrnují:
+
+a)počet fyzických a právnických osob s platnou evropskou peněženkou digitální identity;
+
+b)druh a počet služeb, které přijímají používání evropské digitální peněženky;
+
+c)incidenty a výpadky infrastruktury na vnitrostátní úrovni, které brání používání aplikací pro peněženky digitální identity.
+
+3. Statistické údaje uvedené v odstavci 2 se zpřístupní veřejnosti v otevřeném a běžně používaném, strojově čitelném formátu.
+
+4. Do března každého roku předloží členské státy Komisi zprávu o statistických údajích shromážděných v souladu s odstavcem 2.
+
+
 KAPITOLA VI
 
 ZÁVĚREČNÁ USTANOVENÍ
@@ -974,11 +1359,11 @@ ZÁVĚREČNÁ USTANOVENÍ
 
 Přezkum
 
-Do 1. července 2020 přezkoumá Komise uplatňování tohoto nařízení a podá zprávu Evropskému parlamentu a Radě. Komise zejména vyhodnotí, zda je s přihlédnutím ke zkušenostem s uplatňováním tohoto nařízení a k technologickému, tržnímu a právnímu vývoji vhodné upravit oblast působnosti tohoto nařízení nebo jeho konkrétní ustanovení, včetně článku 6, čl. 7 písm. f) a článků 34, 43, 44 a 45.
+1. Do 24 měsíců od vstupu tohoto nařízení v platnost přezkoumá Komise uplatňování tohoto nařízení a podá zprávu Evropskému parlamentu a Radě. Komise zejména vyhodnotí, zda je s přihlédnutím ke zkušenostem s uplatňováním tohoto nařízení a k technologickému, tržnímu a právnímu vývoji vhodné upravit oblast působnosti tohoto nařízení nebo jeho konkrétní ustanovení. V případě potřeby se ke zprávě přiloží návrh na změnu tohoto nařízení.
 
-Ke zprávě uvedené v prvním pododstavci se případně připojí legislativní návrhy.
+2. Hodnotící zpráva zahrnuje posouzení dostupnosti a použitelnosti prostředků pro identifikaci, včetně evropských peněženek digitální identity, které spadají do oblasti působnosti tohoto nařízení, a posuzuje, zda by všichni soukromí poskytovatelé on-line služeb využívající pro autentizaci uživatelů služby elektronické identifikace třetích stran měli být povinni k přijímání oznámených prostředků pro elektronickou identifikaci a evropských peněženek digitální identity.
 
-Vedle toho Komise každé čtyři roky od předložení zprávy uvedené v prvním pododstavci předloží Evropskému parlamentu a Radě zprávu o pokroku v dosahování cílů tohoto nařízení.
+3. Vedle toho Komise každé čtyři roky od předložení zprávy uvedené v prvním pododstavci předloží Evropskému parlamentu a Radě zprávu o pokroku v dosahování cílů tohoto nařízení.
 
 
 Článek 50
@@ -994,13 +1379,9 @@ Zrušení
 
 Přechodná opatření
 
-1. Prostředky pro bezpečné vytváření podpisu, jejichž shoda byla stanovena podle čl. 3 odst. 4 směrnice 1999/93/ES, se považují za kvalifikované prostředky pro vytváření elektronických podpisů podle tohoto nařízení.
+1. Prostředky pro bezpečné vytváření podpisu, jejichž shoda byla stanovena podle čl. 3 odst. 4 směrnice 1999/93/ES, se považují za kvalifikované prostředky pro vytváření elektronických podpisů podle tohoto nařízení až do [datum – Úř. věst., vložit období čtyř let po vstupu tohoto nařízení v platnost].
 
-2. Kvalifikovaná osvědčení vydaná fyzickým osobám podle směrnice 1999/93/ES se považují za kvalifikované certifikáty pro elektronické podpisy podle tohoto nařízení až do doby skončení jejich platnosti.
-
-3. Ověřovatel vydávající kvalifikovaná osvědčení podle směrnice 1999/93/ES předloží orgánu dohledu co nejdříve, nejpozději však 1. července 2017, zprávu o posouzení shody. Do předložení této zprávy o posouzení shody a dokončení jejího hodnocení orgánem dohledu se ověřovatel považuje za kvalifikovaného poskytovatele služeb vytvářejících důvěru podle tohoto nařízení.
-
-4. Nepředloží-li ověřovatel vydávající kvalifikovaná osvědčení podle směrnice 1999/93/ES orgánu dohledu zprávu o posouzení shody ve lhůtě uvedené v odstavci 3, nepovažuje se tento ověřovatel od 2. července 2017 za kvalifikovaného poskytovatele služeb vytvářejících důvěru podle tohoto nařízení.
+2. Kvalifikovaná osvědčení vydaná fyzickým osobám podle směrnice 1999/93/ES se považují za kvalifikované certifikáty pro elektronické podpisy podle tohoto nařízení až do [datum – PO, vložit období čtyř let po vstupu tohoto nařízení v platnost].
 
 
 Článek 52
@@ -1099,49 +1480,25 @@ g) zaručený elektronický podpis nebo zaručenou elektronickou pečeť kvalifi
 
 h) údaj o místu, kde je bezplatně k dispozici certifikát, na němž je založen zaručený elektronický podpis nebo zaručená elektronická pečeť podle písmene g);
 
-i) údaj o umístění služeb, které lze využít k zjištění platnosti kvalifikovaného certifikátu;
+ii) informace o platnosti kvalifikovaného certifikátu nebo údaj o umístění služeb, které lze využít k zjištění platnosti kvalifikovaného certifikátu;
 
 j) pokud jsou data pro vytváření elektronických podpisů spojená s daty pro ověřování platnosti elektronických podpisů obsažena v kvalifikovaném prostředku pro vytváření elektronických podpisů, příslušnou poznámku, alespoň ve formě vhodné pro automatické zpracování.
 
 PŘÍLOHA II
 
 POŽADAVKY NA KVALIFIKOVANÉ PROSTŘEDKY PRO VYTVÁŘENÍ ELEKTRONICKÝCH PODPISŮ
-	
 
-1.
-	
+1. Kvalifikované prostředky pro vytváření elektronických podpisů vhodnými technickými prostředky a postupy přinejmenším zajistí, aby:
 
-Kvalifikované prostředky pro vytváření elektronických podpisů vhodnými technickými prostředky a postupy přinejmenším zajistí, aby:
+a)byla přiměřeně zajištěna důvěrnost dat pro vytváření elektronických podpisů, která byla použita při vytváření elektronického podpisu;
 
-a) byla přiměřeně zajištěna důvěrnost dat pro vytváření elektronických podpisů, která byla použita při vytváření elektronického podpisu;
+b)data pro vytváření elektronických podpisů použitá při vytváření elektronického podpisu se mohla prakticky vyskytnout pouze jednou;
 
-b) data pro vytváření elektronických podpisů použitá při vytváření elektronického podpisu se mohla prakticky vyskytnout pouze jednou;
+c)bylo přiměřeně zajištěno, že data pro vytváření elektronických podpisů použitá při vytváření elektronického podpisu nelze odvodit a že elektronický podpis je v současnosti dostupnými technickými prostředky spolehlivě chráněn proti padělání;
 
-c) bylo přiměřeně zajištěno, že data pro vytváření elektronických podpisů použitá při vytváření elektronického podpisu nelze odvodit a že elektronický podpis je v současnosti dostupnými technickými prostředky spolehlivě chráněn proti padělání;
+d)oprávněná podepisující osoba měla možnost data pro vytváření elektronických podpisů použitá při vytváření elektronického podpisu spolehlivě chránit před jejich zneužitím třetí osobou.
 
-d) oprávněná podepisující osoba měla možnost data pro vytváření elektronických podpisů použitá při vytváření elektronického podpisu spolehlivě chránit před jejich zneužitím třetí osobou.
-	
-
-2.
-	
-
-Kvalifikované prostředky pro vytváření elektronických podpisů nesmějí měnit podepisovaná data ani bránit tomu, aby byla tato data předložena podepisující osobě před vlastním podepsáním.
-	
-
-3.
-	
-
-Data pro vytváření elektronických podpisů může jménem podepisující osoby vytvářet nebo spravovat pouze kvalifikovaný poskytovatel služeb vytvářejících důvěru.
-	
-
-4.
-	
-
-Aniž je dotčen bod 1 písm. d), smějí kvalifikovaní poskytovatelé služeb vytvářejících důvěru, kteří spravují data pro vytváření elektronických podpisů jménem podepisující osoby, kopírovat data pro vytváření elektronických podpisů pouze pro účely zálohování a jsou-li splněny tyto požadavky:
-
-a) bezpečnost zkopírovaných souborů dat je na stejné úrovni jako u původních souborů dat;
-
-b) počet zkopírovaných souborů dat nepřesáhne minimum potřebné pro zajištění kontinuity služby.
+2. Kvalifikované prostředky pro vytváření elektronických podpisů nesmějí měnit podepisovaná data ani bránit tomu, aby byla tato data předložena podepisující osobě před vlastním podepsáním.
 
 PŘÍLOHA III
 
@@ -1175,7 +1532,7 @@ g) zaručený elektronický podpis nebo zaručenou elektronickou pečeť kvalifi
 
 h) údaj o místu, kde je bezplatně k dispozici certifikát, na němž je založen zaručený elektronický podpis nebo zaručená elektronická pečeť podle písmene g);
 
-i) údaj o umístění služeb, které lze využít k zjištění platnosti kvalifikovaného certifikátu;
+i) informace o platnosti kvalifikovaného certifikátu nebo údaj o umístění služeb, které lze využít k zjištění platnosti kvalifikovaného certifikátu;
 
 j) pokud jsou data pro vytváření elektronických pečetí spojená s daty pro ověřování platnosti elektronických pečetí obsažena v kvalifikovaném prostředku pro vytváření elektronických pečetí, příslušnou poznámku, alespoň ve formě vhodné pro automatické zpracování.
 
@@ -1215,4 +1572,57 @@ h) zaručený elektronický podpis nebo zaručenou elektronickou pečeť kvalifi
 
 i) údaj o místu, kde je bezplatně k dispozici certifikát, na němž je založen zaručený elektronický podpis nebo zaručená elektronická pečeť podle písmene h);
 
-j) údaj o umístění služeb pro ověření platnosti certifikátu, které lze využít k zjištění platnosti kvalifikovaného certifikátu.
+j) informace o platnosti kvalifikovaného certifikátu nebo údaj o umístění služeb pro ověření platnosti certifikátu, které lze využít k zjištění platnosti kvalifikovaného certifikátu.
+
+POŽADAVKY NA KVALIFIKOVANÉ ELEKTRONICKÉ POTVRZENÍ ATRIBUTŮ
+
+Kvalifikované elektronické potvrzení atributů obsahuje:
+
+a)označení, alespoň ve formě vhodné pro automatické zpracování, že se potvrzení vydává jako kvalifikované elektronické potvrzení atributů;
+
+b)soubor dat jednoznačně identifikujících kvalifikovaného poskytovatele služeb vytvářejících důvěru, který vydává kvalifikovaná elektronická potvrzení atributů, včetně alespoň členského státu, v němž je poskytovatel usazen, a
+
+–v případě právnické osoby: název a případné registrační číslo uvedené v úředních záznamech,
+
+–v případě fyzické osoby: jméno osoby;
+
+c)soubor dat jednoznačně identifikujících subjekt, kterého se potvrzené atributy týkají; je-li použit pseudonym, musí být tato skutečnost jasně vyznačena;
+
+d)potvrzený atribut nebo potvrzené atributy a případné informace nezbytné k určení rozsahu těchto atributů;
+
+e)označení začátku a konce doby platnosti potvrzení;
+
+f)identifikační číslo potvrzení, které musí být jedinečné pro daného kvalifikovaného poskytovatele služeb vytvářejících důvěru, a případně označení systému potvrzování, jehož je potvrzení atributů součástí;
+
+g)zaručený elektronický podpis nebo zaručenou elektronickou pečeť kvalifikovaného poskytovatele služeb vytvářejících důvěru, který potvrzení vydává;
+
+h)údaj o místu, kde je bezplatně k dispozici certifikát, na němž je založen zaručený elektronický podpis nebo zaručená elektronická pečeť podle písmene f);
+
+i)informace o platnosti kvalifikovaného potvrzení nebo údaj o umístění služeb, které lze využít k zjištění platnosti kvalifikovaného potvrzení.
+
+
+PŘÍLOHA VI
+
+MINIMÁLNÍ SEZNAM ATRIBUTŮ
+
+V návaznosti na článek 45d členské státy zajistí, aby byla přijata opatření, která kvalifikovaným poskytovatelům elektronických potvrzení atributů umožní na žádost uživatele elektronickými prostředky porovnáním s příslušným autentickým zdrojem na vnitrostátní úrovni nebo prostřednictvím určených zprostředkovatelů uznaných na vnitrostátní úrovni v souladu s vnitrostátními právními předpisy nebo právními předpisy Unie, pokud se tyto atributy spoléhají na autentické zdroje v rámci veřejného sektoru, ověřit autenticitu následujících atributů:
+
+1.Adresa;
+
+2.Věk;
+
+3.Pohlaví;
+
+4.Osobní stav;
+
+5.Složení rodiny;
+
+6.Státní příslušnost;
+
+7.Vzdělání, tituly a licence;
+
+8.Odborná kvalifikace, tituly a licence;
+
+9.Veřejná povolení a licence;
+
+10.Finanční údaje a údaje o společnosti.
